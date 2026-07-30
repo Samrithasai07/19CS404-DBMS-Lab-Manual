@@ -1,4 +1,6 @@
 # ER Diagram Workshop – Submission Template
+# NAME:SAMRITA R
+# REG NO:212224040286
 
 ## Objective
 To understand and apply ER modeling concepts by creating ER diagrams for real-world applications.
