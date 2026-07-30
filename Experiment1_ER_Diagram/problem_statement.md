@@ -1,5 +1,5 @@
 # ER Diagram Workshop – Submission Template
-# NAME:SAMRITA R
+# NAME:SAMRITHA R
 # REG NO:212224040286
 
 ## Objective
