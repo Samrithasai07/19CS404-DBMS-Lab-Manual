@@ -320,6 +320,8 @@ VALUES (308, 'Peter Parker', 'Queens', NULL, 11375);
 
 <img width="1256" height="412" alt="image" src="https://github.com/user-attachments/assets/22247929-3bdf-4666-82b3-3745a7eaab2d" />
 
+## SEB GRADE
+<img width="1103" height="97" alt="image" src="https://github.com/user-attachments/assets/903fb8fa-63ff-4722-89a3-661db944531a" />
 
 
 ## RESULT
